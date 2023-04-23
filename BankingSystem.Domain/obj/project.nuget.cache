@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLHKPdOLVltD61WCiICWXWMPJZpJQv5M0cY6APL/ui03oQJNZIuUe91w6mKXrsVphXHAOPqbbIt+SZDSF/Ty+g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetle\\.nuget\\packages\\oneof\\3.0.243\\oneof.3.0.243.nupkg.sha512"
+  ],
+  "logs": []
+}

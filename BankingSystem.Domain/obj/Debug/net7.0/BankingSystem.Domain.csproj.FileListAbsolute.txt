@@ -1,0 +1,12 @@
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\bin\Debug\net7.0\BankingSystem.Domain.deps.json
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\bin\Debug\net7.0\BankingSystem.Domain.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\bin\Debug\net7.0\BankingSystem.Domain.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.csproj.AssemblyReference.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.AssemblyInfoInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.AssemblyInfo.cs
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\refint\BankingSystem.Domain.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\BankingSystem.Domain.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Domain\obj\Debug\net7.0\ref\BankingSystem.Domain.dll

@@ -1,0 +1,412 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Api\\BankingSystem.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Api\\BankingSystem.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Api\\BankingSystem.Api.csproj",
+        "projectName": "BankingSystem.Api",
+        "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Api\\BankingSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\Svetle\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj"
+              },
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\BankingSystem.Contracts.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\BankingSystem.Contracts.csproj"
+              },
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj",
+        "projectName": "BankingSystem.Application",
+        "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\Svetle\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "OneOf": {
+              "target": "Package",
+              "version": "[3.0.243, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\BankingSystem.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\BankingSystem.Contracts.csproj",
+        "projectName": "BankingSystem.Contracts",
+        "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\BankingSystem.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Svetle\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj"
+              },
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+        "projectName": "BankingSystem.Domain",
+        "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\Svetle\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "OneOf": {
+              "target": "Package",
+              "version": "[3.0.243, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
+        "projectName": "BankingSystem.Infrastructure",
+        "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Svetle\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj"
+              },
+              "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

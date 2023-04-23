@@ -1,0 +1,17 @@
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Contracts.deps.json
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Contracts.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Contracts.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.csproj.AssemblyReference.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.AssemblyInfoInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.AssemblyInfo.cs
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\refint\BankingSystem.Contracts.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\ref\BankingSystem.Contracts.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Application.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Domain.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Application.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\bin\Debug\net7.0\BankingSystem.Domain.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Contracts\obj\Debug\net7.0\BankingSystem.Contracts.csproj.CopyComplete

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDsmaP+Jg2Y/M2PF6wWGACRSYi12/BmrBNEF7jZdwVvKUktxJc3nKlZPc02WMk3o+65x5q7X5nFE13ubEGh6OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\TDD\\BankingSystem\\BankingSystem.Application\\BankingSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetle\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Svetle\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
+    "C:\\Users\\Svetle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Svetle\\.nuget\\packages\\oneof\\3.0.243\\oneof.3.0.243.nupkg.sha512"
+  ],
+  "logs": []
+}

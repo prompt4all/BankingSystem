@@ -1,0 +1,8 @@
+@host= http://localhost:5203
+POST {{host}}/api/paymentAccount
+Content-Type: application/json
+UserId:bd97159f-190d-4ad0-bfb9-d08e2abf2853
+
+{
+    "AccountNumber":"123456"
+}

@@ -1,0 +1,17 @@
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Infrastructure.deps.json
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Infrastructure.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Infrastructure.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Application.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Domain.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Application.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net7.0\BankingSystem.Domain.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.AssemblyInfo.cs
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.csproj.CopyComplete
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\refint\BankingSystem.Infrastructure.dll
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\BankingSystem.Infrastructure.pdb
+C:\Projects\TDD\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net7.0\ref\BankingSystem.Infrastructure.dll

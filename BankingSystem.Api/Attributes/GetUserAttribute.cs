@@ -10,8 +10,7 @@ namespace BankingSystem.Api.Attributes
         public override void OnActionExecuting(ActionExecutingContext context)
         {
             var controller = context.Controller as CustomApiController;
-
-            
+           
             if (context.HttpContext.Request.Headers.TryGetValue("UserId", out var userIdValues) && userIdValues.Any())
             {
                 controller.BaseUser = controller.UserService.GetUser(new Guid(userIdValues.Single()));

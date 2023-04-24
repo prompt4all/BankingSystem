@@ -23,12 +23,15 @@ var builder = WebApplication.CreateBuilder(args);
      builder.Services.AddSingleton(mapper);
      builder.Services.AddControllers( c=> c.Filters.Add<GetUserAttribute>());
      builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+     builder.Services.AddSwaggerGen();
 }
 var app = builder.Build();
 {
     app.UseMiddleware<ErrorHandlingMiddleware>();
     app.UseHttpsRedirection();
     app.UseAuthorization();
+    app.UseSwagger();
+    app.UseSwaggerUI();
     app.MapControllers();
     app.Run();
 }

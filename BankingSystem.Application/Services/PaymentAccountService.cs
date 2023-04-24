@@ -31,7 +31,7 @@ namespace BankingSystem.Application.Services
                 throw new Exception("AccountNumber must ne unique!");
             }
             //create 
-            var paymentAccount = new PaymentAccount()
+            var paymentAccount = new PaymentAccount() 
             {
                 AccountNumber = createPaymentAccountRequest.AccountNumber,
                 Id = Guid.NewGuid(),
